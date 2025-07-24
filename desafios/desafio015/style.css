@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.conteiner{
+    display: grid;
+    grid-template: 80px 40px 200px 40px / 1fr 2fr 1fr;
+    
+}
